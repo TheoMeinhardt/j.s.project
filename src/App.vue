@@ -7,3 +7,9 @@ import { RouterView } from 'vue-router'
 </template>
 
 <style scoped></style>
+
+<style lang="css" module="colors">
+.darkGreenBG {
+  background-color: #126e2a;
+}
+</style>
