@@ -6,6 +6,10 @@
     <IntroParagraph />
     <Divider />
     <AboutUs />
+    <Divider />
+    <WorkShops />
+    <Divider />
+    <Galery />
   </div>
 
   <!-- Small screens: -->
@@ -13,6 +17,10 @@
     <IntroParagraph />
     <Divider />
     <AboutUs />
+    <Divider />
+    <WorkShops />
+    <Divider />
+    <Galery />
   </div>
 </template>
 
@@ -20,7 +28,9 @@
 import HomeBanner from '@/components/HomeBanner.vue'
 import IntroParagraph from '@/components/IntroParagraph.vue'
 import AboutUs from '@/components/AboutUs.vue'
+import WorkShops from '@/components/WorkShops.vue'
 import Divider from '@/components/ParagraphDivider.vue'
+import Galery from '@/components/GaleryParagraph.vue'
 </script>
 
 <style lang="scss" scoped></style>
