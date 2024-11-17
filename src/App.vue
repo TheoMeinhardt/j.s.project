@@ -23,7 +23,8 @@ import { RouterView } from 'vue-router'
   font-family: 'Oswald-Medium';
 }
 
-.text-h5 {
+.text-h5,
+.text-h2 {
   font-family: 'Oswald-Regular';
 }
 
