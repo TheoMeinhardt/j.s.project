@@ -1,8 +1,8 @@
 <template>
-  <div class="banner row window-height content-center">
+  <div class="banner row window-height content-md-center content-sm-start">
     <div class="col-md-5 col-xs-12">
       <!-- Big Screens -->
-      <q-img src="/images/Logo.png" class="logoBubble gt-sm q-ml-xl" width="40%"></q-img>
+      <q-img src="/images/Logo.png" class="logoBubble gt-sm q-ml-xl q-mt-xl" width="40%"></q-img>
       <p class="gt-sm text-weight-bold text-white text-h2 q-ml-xl q-mt-xl">
         TRAINING & ERNÄHRUNG <br />
         WORKSHOPS <br />
@@ -10,7 +10,9 @@
       </p>
 
       <!-- Small Screens -->
-      <q-img src="/images/Logo.png" class="lt-md" height="35%"></q-img>
+      <div class="text-center q-my-md">
+        <q-img src="/images/Logo.png" class="logoBubble lt-md" width="50%" fit="contain"></q-img>
+      </div>
       <p class="lt-md text-center text-weight-bold text-white text-h4">
         TRAINING & ERNÄHRUNG <br />
         WORKSHOPS <br />
@@ -19,7 +21,7 @@
     </div>
 
     <div class="col-md-7 col-xs-12 text-center">
-      <q-img src="/images/8575.jpg" class="imageBubble" width="70%"></q-img>
+      <q-img src="/images/8575.jpg" class="imageBubble q-mt-xl" width="70%"></q-img>
     </div>
   </div>
 </template>
