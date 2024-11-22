@@ -118,7 +118,7 @@
         </div>
 
         <q-list bordered separator>
-          <q-item>
+          <!-- <q-item>
             <q-item-section avatar>
               <q-icon color="secondary" name="groups" />
             </q-item-section>
@@ -126,7 +126,7 @@
               <q-item-label overline> Teilnehmerzahl </q-item-label>
               <q-item-label> max. <span class="text-weight-bold">5 Personen</span> </q-item-label>
             </q-item-section>
-          </q-item>
+          </q-item> -->
 
           <q-item>
             <q-item-section avatar>
