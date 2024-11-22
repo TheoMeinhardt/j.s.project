@@ -3,7 +3,7 @@
     <div class="col-md-5 col-xs-12">
       <!-- Big Screens -->
       <q-img src="/images/Logo.png" class="logoBubble gt-sm q-ml-xl q-mt-xl" width="40%"></q-img>
-      <p class="gt-sm text-weight-bold text-white text-h2 q-ml-xl q-mt-xl">
+      <p class="bannerText gt-sm text-weight-bold text-white text-h2 q-ml-xl q-mt-xl">
         TRAINING & ERNÄHRUNG <br />
         WORKSHOPS <br />
         VORTRÄGE
@@ -13,7 +13,7 @@
       <div class="text-center q-my-md">
         <q-img src="/images/Logo.png" class="logoBubble lt-md" width="50%" fit="contain"></q-img>
       </div>
-      <p class="lt-md text-center text-weight-bold text-white text-h4">
+      <p class="bannerText lt-md text-center text-weight-bold text-white text-h4">
         TRAINING & ERNÄHRUNG <br />
         WORKSHOPS <br />
         VORTRÄGE
@@ -31,6 +31,10 @@
 <style lang="scss" scoped>
 .banner {
   background-color: $darkGreen;
+}
+
+.bannerText {
+  line-height: 1.2em;
 }
 
 .logoBubble {
