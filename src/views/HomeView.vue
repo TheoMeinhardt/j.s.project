@@ -5,9 +5,9 @@
   <div class="gt-sm q-pa-xl">
     <IntroParagraph />
     <Divider />
-    <AboutUs />
-    <Divider />
     <WorkShops />
+    <Divider />
+    <AboutUs />
     <Divider />
     <Galery />
   </div>
@@ -16,9 +16,9 @@
   <div class="lt-md q-px-lg q-py-md">
     <IntroParagraph />
     <Divider />
-    <AboutUs />
-    <Divider />
     <WorkShops />
+    <Divider />
+    <AboutUs />
     <Divider />
     <Galery />
   </div>
