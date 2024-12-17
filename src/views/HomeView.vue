@@ -9,6 +9,8 @@
     <Divider />
     <AboutUs />
     <Divider />
+    <ContactUs />
+    <Divider />
     <Galery />
   </div>
 
@@ -19,6 +21,8 @@
     <WorkShops />
     <Divider />
     <AboutUs />
+    <Divider />
+    <ContactUs />
     <Divider />
     <Galery />
   </div>
@@ -31,6 +35,7 @@ import AboutUs from '@/components/AboutUs.vue'
 import WorkShops from '@/components/WorkShops.vue'
 import Divider from '@/components/ParagraphDivider.vue'
 import Galery from '@/components/GaleryParagraph.vue'
+import ContactUs from '@/components/ContactUs.vue'
 </script>
 
 <style lang="scss" scoped></style>
