@@ -32,7 +32,7 @@
               <q-icon size="sm" color="primary" name="email" />
             </q-item-section>
             <q-item-section>
-              <q-item-label class="text-bold">office@jsproject.at</q-item-label>
+              <q-item-label class="text-bold"><a href="mailto:office@jsproject.at" style="text-decoration: none">office@jsproject.at</a></q-item-label>
             </q-item-section>
           </q-item>
         </q-list>
