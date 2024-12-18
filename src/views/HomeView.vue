@@ -26,6 +26,8 @@
     <Divider />
     <Galery />
   </div>
+
+  <Footer />
 </template>
 
 <script setup lang="ts">
@@ -36,6 +38,7 @@ import WorkShops from '@/components/WorkShops.vue'
 import Divider from '@/components/ParagraphDivider.vue'
 import Galery from '@/components/GaleryParagraph.vue'
 import ContactUs from '@/components/ContactUs.vue'
+import Footer from '@/components/PageFooter.vue'
 </script>
 
 <style lang="scss" scoped></style>
