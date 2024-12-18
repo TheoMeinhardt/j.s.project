@@ -1,5 +1,14 @@
 <template>
-  <h1>Test</h1>
+  <div class="row justify-between bg-primary text-white q-px-lg q-py-md">
+    <div class="col">
+      <p>© Copyright 2024 - Sandra Schelivsky</p>
+    </div>
+
+    <div class="col text-right">
+      <q-btn flat to="impressum" color="white" label="Impressum" />
+      <q-btn flat to="datenschutz" color="white" label="Datenschutz" />
+    </div>
+  </div>
 </template>
 
 <script setup lang="ts"></script>
