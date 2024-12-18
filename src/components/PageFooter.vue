@@ -5,8 +5,9 @@
     </div>
 
     <div class="col text-right">
-      <q-btn flat to="impressum" color="white" label="Impressum" />
-      <q-btn flat to="datenschutz" color="white" label="Datenschutz" />
+      <q-btn flat to="/" color="white" label="Home" />
+      <q-btn flat to="/impressum" color="white" label="Impressum" />
+      <q-btn flat to="/datenschutz" color="white" label="Datenschutz" />
     </div>
   </div>
 </template>
