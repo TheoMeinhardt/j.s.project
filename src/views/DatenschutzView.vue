@@ -32,7 +32,7 @@
       <p class="text-h5">Hinweis zur verantwortlichen Stelle</p>
       <p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p>
       <p>Sandra Schelivsky<br />Römerweg 7/1/4<br />2345 Brunn am Gebirge</p>
-      <p>Telefon: +43 699 11878758<br />E-Mail: <a href="mailto:office@jsproject.at">office@jsproject.at</a></p>
+      <p>Telefon: +43 699 11878758<br />E-Mail: <a href="mailto:sandra@strengthcoach.at">sandra@strengthcoach.at</a></p>
       <p>Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-Adressen o. Ä.) entscheidet.</p>
       <p class="text-h5">Widerruf Ihrer Einwilligung zur Datenverarbeitung</p>
       <p>Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.</p>

@@ -9,7 +9,7 @@
         <span class="text-bold">Rechtsform: </span>Kleinunternehmer<br />
         <span class="text-bold">UID und UST: </span>befreit, nach § 6 Abs 1 Z 27 UstG. - Kleinunternehmerregelung <br />
         <span class="text-bold">Telefon: </span> +43 699 11878758 <br />
-        <span class="text-bold">Email: </span><a href="mailto:office@jsproject.at">office@jsproject.at</a>
+        <span class="text-bold">Email: </span><a href="mailto:sandra@strengthcoach.at">sandra@strengthcoach.at</a>
       </p>
 
       <div>
