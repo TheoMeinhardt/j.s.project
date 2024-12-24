@@ -43,13 +43,14 @@
         </div>
       </div>
 
+      <!--
       <q-form @submit="sendEmail" @reset="resetForm" class="col-md-6 col-xs-12">
-        <!-- Big screens -->
+
         <div class="row gt-sm q-mb-md">
           <q-input outlined v-model="firstnameInput" label="Vorname" class="col q-mr-md" />
           <q-input outlined v-model="lastnameInput" label="Nachname" class="col q-ml-md" />
         </div>
-        <!-- Small screens -->
+
         <div class="row lt-md q-mb-md">
           <q-input outlined v-model="firstnameInput" label="Vorname" class="col-12" />
           <q-input outlined v-model="lastnameInput" label="Nachname" class="col-12 q-mt-md" />
@@ -65,11 +66,13 @@
           <q-btn label="Reset" type="reset" color="primary" flat rounded class="q-ml-sm" />
         </div>
       </q-form>
+       -->
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
+/*
 import { ref } from 'vue'
 
 const firstnameInput = ref('')
@@ -89,7 +92,7 @@ function resetForm(): void {
   emailInput.value = ''
   phoneInput.value = ''
   messageInput.value = ''
-}
+}*/
 </script>
 
 <style lang="scss" scoped>
