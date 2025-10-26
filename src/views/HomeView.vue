@@ -5,6 +5,8 @@
   <div class="gt-sm q-pa-xl">
     <IntroParagraph />
     <Divider />
+    <CurrentWorkshops />
+    <Divider />
     <WorkShops />
     <Divider />
     <AboutUs />
@@ -17,6 +19,8 @@
   <!-- Small screens: -->
   <div class="lt-md q-px-lg q-py-md">
     <IntroParagraph />
+    <Divider />
+    <CurrentWorkshops />
     <Divider />
     <WorkShops />
     <Divider />
@@ -36,6 +40,7 @@ import WorkShops from '@/components/WorkShops.vue'
 import Divider from '@/components/ParagraphDivider.vue'
 import Galery from '@/components/GaleryParagraph.vue'
 import ContactUs from '@/components/ContactUs.vue'
+import CurrentWorkshops from '@/components/CurrentWorkshops.vue'
 </script>
 
 <style lang="scss" scoped></style>
