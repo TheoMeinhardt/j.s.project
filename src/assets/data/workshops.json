@@ -1,0 +1,20 @@
+[
+	{
+		"titel": "Krafttraining - deine Power Formel",
+		"text": "wie gezieltes Krafttraining zu mehr Energie, einem stärkeren Herzen und einer höheren Stressresistenz führt. Teilnehmende lernen, wie sie durch den richtigen Trainingsreiz, strukturierte Planung und konsequente Motivation ihre Muskulatur stärken, den Körper straffen und ihre Lebensqualität langfristig verbessern können.",
+		"begin": "2025-12-06T11:30:00.000Z",
+		"end": "2025-12-06T13:00:00.000Z",
+		"location": {
+			"name": "LifeLine Fitnessstudio",
+			"address": "Albert-Schweizer-Gasse",
+			"houseNumber": 6,
+			"zip": 1140,
+			"city": "Wien"
+		},
+		"price": 35,
+		"signUp": "office@jsproject.at",
+		"features": [
+			"inkl. Q&A"
+		]
+	}
+]
