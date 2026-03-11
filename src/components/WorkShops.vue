@@ -2,7 +2,8 @@
   <div>
     <div class="text-center">
       <p class="text-h4">Angebote & Workshops</p>
-      <p class="text-subtitle1">Workshops zu ausgewählten Schwerpunkten im Bereich Training, Gesundheit und Ernährung für Privat- und Firmenkunden</p>
+      <p class="text-subtitle1">Workshops zu ausgewählten Schwerpunkten im Bereich Training, Gesundheit und Ernährung
+        für Privat- und Firmenkunden</p>
     </div>
 
     <div class="row justify-around text-center text-white text-body1"></div>
@@ -15,11 +16,19 @@
 
         <!-- Big Screens -->
         <div class="gt-sm workshopParagraph text-justify">
-          <span class="text-body2">Starte jetzt mit deinem persönlichen @home-workshop für dich und deine Freunde. Diese interaktiven Workshops eignen sich ideal für Menschen, die in einer kleinen Runde persönliche Unterstützung und praxisnahe Tipps erhalten möchten. Ein privater Workshop über Ernährung und Training bei dir zu Hause ist eine großartige Möglichkeit, gezielt auf individuelle Bedürfnisse einzugehen. Unsere Workshops vereinen Theorie, Praxis und persönliche Betreuung. </span>
+          <span class="text-body2">Starte jetzt mit deinem persönlichen @home-workshop für dich und deine Freunde. Diese
+            interaktiven Workshops eignen sich ideal für Menschen, die in einer kleinen Runde persönliche Unterstützung
+            und praxisnahe Tipps erhalten möchten. Ein privater Workshop über Ernährung und Training bei dir zu Hause
+            ist eine großartige Möglichkeit, gezielt auf individuelle Bedürfnisse einzugehen. Unsere Workshops vereinen
+            Theorie, Praxis und persönliche Betreuung. </span>
         </div>
         <!-- Small Screens -->
         <div class="lt-md q-mb-md text-justify">
-          <span class="text-body2">Starte jetzt mit deinem persönlichen @home-workshop für dich und deine Freunde. Diese interaktiven Workshops eignen sich ideal für Menschen, die in einer kleinen Runde persönliche Unterstützung und praxisnahe Tipps erhalten möchten. Ein privater Workshop über Ernährung und Training bei dir zu Hause ist eine großartige Möglichkeit, gezielt auf individuelle Bedürfnisse einzugehen. Unsere Workshops vereinen Theorie, Praxis und persönliche Betreuung. </span>
+          <span class="text-body2">Starte jetzt mit deinem persönlichen @home-workshop für dich und deine Freunde. Diese
+            interaktiven Workshops eignen sich ideal für Menschen, die in einer kleinen Runde persönliche Unterstützung
+            und praxisnahe Tipps erhalten möchten. Ein privater Workshop über Ernährung und Training bei dir zu Hause
+            ist eine großartige Möglichkeit, gezielt auf individuelle Bedürfnisse einzugehen. Unsere Workshops vereinen
+            Theorie, Praxis und persönliche Betreuung. </span>
         </div>
 
         <q-list bordered separator>
@@ -61,7 +70,8 @@
             </q-item-section>
             <q-item-section>
               <q-item-label overline> Zusatzmaterial</q-item-label>
-              <q-item-label>inkl. <span class="text-weight-bold">Skripten</span> und diverses <span class="text-weight-bold">Anschauungsmaterial</span></q-item-label>
+              <q-item-label>inkl. <span class="text-weight-bold">Skripten</span> und diverses <span
+                  class="text-weight-bold">Anschauungsmaterial</span></q-item-label>
             </q-item-section>
           </q-item>
 
@@ -70,7 +80,8 @@
               <q-icon color="secondary" name="explore" />
             </q-item-section>
             <q-item-section>
-              <q-item-label><span class="text-weight-bold">Kompass</span> durch den <span class="text-weight-bold">Lebensmittel- und Diätdschungel</span></q-item-label>
+              <q-item-label><span class="text-weight-bold">Kompass</span> durch den <span
+                  class="text-weight-bold">Lebensmittel- und Diätdschungel</span></q-item-label>
             </q-item-section>
           </q-item>
 
@@ -79,7 +90,8 @@
               <q-icon color="secondary" name="sports_score" />
             </q-item-section>
             <q-item-section>
-              <q-item-label>Training – Was, Wie und Warum <span class="text-weight-bold">Zielsetzung, Fortschritt, Motivation</span></q-item-label>
+              <q-item-label>Training – Was, Wie und Warum <span class="text-weight-bold">Zielsetzung, Fortschritt,
+                  Motivation</span></q-item-label>
             </q-item-section>
           </q-item>
 
@@ -88,16 +100,17 @@
               <q-icon color="secondary" name="favorite" />
             </q-item-section>
             <q-item-section>
-              <q-item-label><span class="text-weight-bold">Ü50</span> – Fit durch Krafttraining und Ernährung</q-item-label>
+              <q-item-label><span class="text-weight-bold">Ü50</span> – Fit durch Krafttraining und
+                Ernährung</q-item-label>
             </q-item-section>
           </q-item>
 
-          <q-item
-            ><q-item-section avatar>
+          <q-item><q-item-section avatar>
               <q-icon color="secondary" name="check_circle" />
             </q-item-section>
             <q-item-section>
-              <q-item-label><span class="text-weight-bold">Individuelle Themenauswahl und Zusammenstellung</span> gerne auf Anfrage</q-item-label>
+              <q-item-label><span class="text-weight-bold">Individuelle Themenauswahl und Zusammenstellung</span> gerne
+                auf Anfrage</q-item-label>
             </q-item-section>
           </q-item>
         </q-list>
@@ -110,11 +123,15 @@
 
         <!-- Big Screens -->
         <div class="gt-sm workshopParagraph text-justify">
-          <span class="text-body2">Um im Berufsalltag fit und leistungsfähig zu bleiben, sind Ernährung und Training entscheidend Mögliche Themen, die individuell auf ihre Mitarbeiter und Anforderungen per Rücksprache abgestimmt werden. </span>
+          <span class="text-body2">Um im Berufsalltag fit und leistungsfähig zu bleiben, sind Ernährung und Training
+            entscheidend Mögliche Themen, die individuell auf ihre Mitarbeiter und Anforderungen per Rücksprache
+            abgestimmt werden. </span>
         </div>
         <!-- Small Screen -->
         <div class="lt-md q-mb-md text-justify">
-          <span class="text-body2">Um im Berufsalltag fit und leistungsfähig zu bleiben, sind Ernährung und Training entscheidend Mögliche Themen, die individuell auf ihre Mitarbeiter und Anforderungen per Rücksprache abgestimmt werden. </span>
+          <span class="text-body2">Um im Berufsalltag fit und leistungsfähig zu bleiben, sind Ernährung und Training
+            entscheidend Mögliche Themen, die individuell auf ihre Mitarbeiter und Anforderungen per Rücksprache
+            abgestimmt werden. </span>
         </div>
 
         <q-list bordered separator>
@@ -156,7 +173,8 @@
             </q-item-section>
             <q-item-section>
               <q-item-label overline> Zusatzmaterial</q-item-label>
-              <q-item-label>inkl. <span class="text-weight-bold">Skripten</span> und diverses <span class="text-weight-bold">Anschauungsmaterial</span></q-item-label>
+              <q-item-label>inkl. <span class="text-weight-bold">Skripten</span> und diverses <span
+                  class="text-weight-bold">Anschauungsmaterial</span></q-item-label>
             </q-item-section>
           </q-item>
 
@@ -187,8 +205,7 @@
             </q-item-section>
           </q-item>
 
-          <q-item
-            ><q-item-section avatar>
+          <q-item><q-item-section avatar>
               <q-icon color="secondary" name="arrow_forward" />
             </q-item-section>
             <q-item-section>
@@ -196,8 +213,7 @@
             </q-item-section>
           </q-item>
 
-          <q-item
-            ><q-item-section avatar>
+          <q-item><q-item-section avatar>
               <q-icon color="secondary" name="arrow_forward" />
             </q-item-section>
             <q-item-section>
@@ -205,8 +221,7 @@
             </q-item-section>
           </q-item>
 
-          <q-item
-            ><q-item-section avatar>
+          <q-item><q-item-section avatar>
               <q-icon color="secondary" name="arrow_forward" />
             </q-item-section>
             <q-item-section>
@@ -214,8 +229,7 @@
             </q-item-section>
           </q-item>
 
-          <q-item
-            ><q-item-section avatar>
+          <q-item><q-item-section avatar>
               <q-icon color="secondary" name="arrow_forward" />
             </q-item-section>
             <q-item-section>
@@ -257,7 +271,8 @@
             </q-item-section>
             <q-item-section>
               <q-item-label overline> Zusatzmaterial</q-item-label>
-              <q-item-label>inkl. <span class="text-weight-bold">Skripten</span> und diverses <span class="text-weight-bold">Anschauungsmaterial</span></q-item-label>
+              <q-item-label>inkl. <span class="text-weight-bold">Skripten</span> und diverses <span
+                  class="text-weight-bold">Anschauungsmaterial</span></q-item-label>
             </q-item-section>
           </q-item>
         </q-list>
@@ -266,7 +281,15 @@
   </div>
 </template>
 
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+import type { Workshop } from '@/types'
+import { parseWorkshops } from '@/helpers'
+
+// import workshopsData from '@/assets/data/workshops.json'
+
+// const workshops: Workshop[] = parseWorkshops(workshopsData)
+// console.log(workshops)
+</script>
 
 <style lang="scss" scoped>
 .listHeading {
