@@ -13,4 +13,8 @@ export type Workshop = {
   price: number;
   signUp: string;
   features: string[];
+  image: { // Just the filename. Will be automatically expanded to 'public/images/posters/'
+    regular: string;
+    square: string;
+  }
 }

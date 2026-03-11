@@ -15,6 +15,10 @@
 		"signUp": "office@jsproject.at",
 		"features": [
 			"inkl. Q&A"
-		]
+		],
+		"image": {
+			"regular": "WS_0612_2025.png",
+			"square": "WS_0612_2025_quadratisch.png"
+		}
 	}
 ]

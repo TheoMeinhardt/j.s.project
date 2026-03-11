@@ -18,6 +18,10 @@ export type JSONWorkshop = {
   price: number;
   signUp: string;
   features: string[];
+  image: {
+    regular: string;
+    square: string;
+  }
 }
 
 // Parses the JSON-stored workshop to the ts Workshop type. Mainly because
@@ -40,7 +44,11 @@ function parseWorkshops(json: JSONWorkshop[]): Workshop[] {
       },
       price: elem.price,
       signUp: elem.signUp,
-      features: elem.features
+      features: elem.features,
+      image: {
+        regular: '/public/images/posters/' + elem.image.regular,
+        square: '/public/images/posters/' + elem.image.square
+      }
     })
   })
 
