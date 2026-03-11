@@ -285,10 +285,10 @@
 import type { Workshop } from '@/types'
 import { parseWorkshops } from '@/helpers'
 
-// import workshopsData from '@/assets/data/workshops.json'
+import workshopsData from '@/assets/data/workshops.json'
 
-// const workshops: Workshop[] = parseWorkshops(workshopsData)
-// console.log(workshops)
+const workshops: Workshop[] = parseWorkshops(workshopsData)
+console.log(workshops)
 </script>
 
 <style lang="scss" scoped>
