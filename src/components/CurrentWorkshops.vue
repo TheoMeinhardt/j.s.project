@@ -90,20 +90,23 @@
 
 <script setup lang="ts">
 import type { Ref } from 'vue'
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import { format } from 'date-fns'
 
 import type { Workshop } from '@/types'
 import { parseWorkshops } from '@/helpers'
 
-import workshopData from '@/assets/data/workshops.json'
-
 const bigImagePopUp = ref(false)
-const workshops: Ref<Workshop[]> = ref(parseWorkshops(workshopData))
+const workshops: Ref<Workshop[] | undefined> = ref()
 
-// Sort the workshops descending by their date
-workshops.value.sort((lhs, rhs) => { return Number(lhs.begin) - Number(rhs.begin) }).reverse()
-console.log(workshops.value[0].image)
+onMounted(async () => {
+  const url = window.location.origin + "/data/workshops.json"
+  const workshopData = await fetch(url)
+  workshops.value = parseWorkshops(await workshopData.json())
+  // Sort the workshops descending by their date
+  workshops.value.sort((lhs, rhs) => { return Number(lhs.begin) - Number(rhs.begin) }).reverse()
+})
+
 </script>
 
 <style lang="scss" scoped>
