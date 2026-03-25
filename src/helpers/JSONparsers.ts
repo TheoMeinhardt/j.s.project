@@ -46,8 +46,8 @@ function parseWorkshops(json: JSONWorkshop[]): Workshop[] {
       signUp: elem.signUp,
       features: elem.features,
       image: {
-        regular: '/public/images/posters/' + elem.image.regular,
-        square: '/public/images/posters/' + elem.image.square
+        regular: '/images/posters/' + elem.image.regular,
+        square: '/images/posters/' + elem.image.square
       }
     })
   })
